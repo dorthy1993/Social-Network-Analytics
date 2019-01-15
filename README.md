@@ -14,6 +14,11 @@ The file “copurchase.csv” has two variables, which are Product ID’s:
 •	Source: This is the focal product that was purchased 
 •	Target: People who bought “Source” also purchased the Target product 
 
+**#Packages**
+
+dplyr; sqldf; igraph
+
+
 
 
 
